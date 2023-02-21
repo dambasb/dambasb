@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dambasb
+- 👋 Hi, I’m Damir
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React and NodeJS
 - 📫 How to reach me: [Lnkedin](https://www.linkedin.com/in/damir-kolobari%C4%87-28b15b127/)
